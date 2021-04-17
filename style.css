@@ -49,6 +49,10 @@ body{
     color:hsl(277, 64%, 61%) ;
 }
 
+.newline{
+    display: block;
+}
+
 .line{
     font-weight: 400;
     color: hsla(0, 0%, 100%, 0.6);
@@ -87,4 +91,84 @@ body{
 font-size: 0.6770833333333334vw;
 letter-spacing: 0.026041666666666668vw;
     color: hsla(0, 0%, 100%, 0.6);
+}
+
+@media screen and (max-width: 375px){
+
+    .container{
+        flex-direction: column-reverse ;
+        width: 106.66666666666667  vw;
+        height: 176.53333333333333vw;
+    }
+
+    .left{
+        padding-bottom: ;
+        
+    }
+
+    #image{
+        
+        height: 59vw;
+        border-top-right-radius: 4vw;
+        border-top-left-radius: 4vw;
+    border-bottom-right-radius: 0;
+    }
+    
+    .right{
+        border-top-right-radius: 4vw;
+        border-top-left-radius: 4vw;
+        height: 59vw;
+        overflow: hidden;
+    }
+
+
+    .heading{
+        text-align: center;
+        padding-left: 2.6666666666666665vw;
+        font-size: 6.4vw;
+    }
+
+    .newline{
+        display: inline;
+    }
+
+    .line{
+        
+        padding-bottom:0 ;
+        padding-left: 0;
+        padding: 2.6666666666666665vw 5.333333333333333vw;
+        line-height: normal;
+        font-size: 3.2vw;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    .activities{
+        padding-top: 5px;
+        padding-bottom: 5.333333333333333vw;
+
+        line-height: 5.866666666666666vw;
+        
+        flex-flow: column;
+        
+        text-align: center;
+    }
+    .words{
+        padding-left: 23.2vw;
+        font-size: 2.6666666666666665vw;
+        font-weight: lighter;
+        
+        
+    }
+
+    #quiries{
+        padding-left: 25.866666666666667vw;
+    }
+
+    .numbers{
+        
+        padding-left: 25.6vw; 
+        font-size: 5.6vw;
+    }
+
 }
