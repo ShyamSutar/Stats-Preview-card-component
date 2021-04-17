@@ -1,6 +1,6 @@
 # Stats preview card component
 
-![Design preview for the Stats preview card component coding challenge](./design/desktop-design.jpg)
+![Design preview for the Stats preview card component coding challenge]((./design/mobile-design.jpg))
 ![]((./design/mobile-design.jpg))
 
 ## Welcome! 👋
