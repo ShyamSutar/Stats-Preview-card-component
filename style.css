@@ -15,9 +15,7 @@ body{
 .container{
     border-radius: 15px;
     display:flex;
-    /* justify-items: center;
-    justify-content: center;
-    align-items: center;     */
+
     background-color: hsl(244, 38%, 16%);
     width: 70vw;
     height: 30vw;
@@ -43,8 +41,8 @@ body{
     color: hsla(0, 0%, 100%, 0.9);
     font-family: 'Inter', sans-serif;
     font-weight: 700;
-    font-size: 40px;
-    padding:  80px 40px 35px 90px;
+    font-size: 2.0833333333333335vw;
+    padding:  4.166666666666667vw 2.0833333333333335vw 1.8229166666666667vw 4.6875vw;
 }
 
 #insights{
@@ -54,16 +52,16 @@ body{
 .line{
     font-weight: 400;
     color: hsla(0, 0%, 100%, 0.6);
-    font-size: 16px;
+    font-size: 0.8333333333333334vw;
     font-family: 'Lexend Deca', sans-serif;
-    padding-left: 93px;
-    line-height: 29px;
+    padding-left: 4.84375vw;
+    line-height: 1.5104166666666667vw;
 }
 
 .activities{
 
-    padding-top: 130px;
-    padding-left: 55px;
+    padding-top: 6.770833333333333vw;
+    padding-left: 2.8645833333333335vw;
     
     display: flex;
     justify-content: space-around;
@@ -75,25 +73,18 @@ body{
     font-family: 'Inter', sans-serif;
     color:hsla(0, 0%, 100%, 0.9); ;
     font-weight: 700;
-    font-size: 30px;
+    font-size: 1.5625vw;
     
 
 }
 
 .words{
-    padding-left: 1px;
+    padding-left: 0.052083333333333336vw;
     display: block;
-    padding-top:7px;
+    padding-top:0.3645833333333333vw;
     font-weight: 100;
     font-family: 'Lexend Deca', sans-serif;
-font-size: 13px;
-letter-spacing: 0.5px;
+font-size: 0.6770833333333334vw;
+letter-spacing: 0.026041666666666668vw;
     color: hsla(0, 0%, 100%, 0.6);
 }
-
-/* .div{
-    background-color: hsl(277, 64%, 61%);
-    height: 100%;
-    margin: -100px;
-    
-} */
