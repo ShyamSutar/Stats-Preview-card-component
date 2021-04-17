@@ -6,7 +6,7 @@ body{
 .main{
     display: flex;
     justify-content: center;
-    padding: 10vw;
+    padding: 9vw;
     justify-items: center;
     
 }
@@ -15,9 +15,10 @@ body{
 .container{
     display:flex;
     justify-items: center;
-    justify-content: center;    
+    justify-content: center;
+    align-items: center;    
     background-color: hsl(244, 38%, 16%);
-    width: 93%;
+    width: 70vw;
     height: 30vw;
     
     
@@ -26,4 +27,12 @@ body{
 
 img{
     height: 100%;
+}
+
+.right{
+    height:100%;
+}
+
+.left{
+    
 }
