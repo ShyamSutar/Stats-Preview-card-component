@@ -1,8 +1,8 @@
 # Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-design.jpg)
- <div style="align:center"><img src="./design/mobile-design.jpg"></div>
-<span style="padding-left:20px">![]("./design/mobile-design.jpg")</span>
+ <div style="padding:20px"><img src="./design/mobile-design.jpg"></div>
+
 
 ## Welcome! 👋
 
