@@ -1,7 +1,7 @@
 # Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-design.jpg)
-<img src="./design/mobile-design.jpg" align="center">
+<img src="./design/mobile-design.jpg" class="center">
 
 
 ## Welcome! 👋
