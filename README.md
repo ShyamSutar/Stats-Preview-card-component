@@ -2,7 +2,7 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-design.jpg)
  <div style="align:center"><img src="./design/mobile-design.jpg"></div>
-
+<span style="display:block;text-align:center">![]("./design/mobile-design.jpg")</span>
 
 ## Welcome! 👋
 
